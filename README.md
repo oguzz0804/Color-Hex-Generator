@@ -1,4 +1,4 @@
-# LIVE DEMO : [go](https://color-to-code.netlify.app/){:target="_blank"}
+# LIVE DEMO : <a href="[https://lexical.dev](https://color-to-code.netlify.app/)" target="_blank" rel="noreferrer noopener"><span>Color To Hex</span></a>
 
 ## For colornames : `npm i colornames`
 
