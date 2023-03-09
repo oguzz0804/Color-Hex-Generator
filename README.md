@@ -1,4 +1,4 @@
-# LIVE DEMO : <a href = "https://color-to-code.netlify.app/" target="_blank">Color To Hex</a>
+# LIVE DEMO : [go](https://color-to-code.netlify.app/){:target="_blank"}
 
 ## For colornames : `npm i colornames`
 
